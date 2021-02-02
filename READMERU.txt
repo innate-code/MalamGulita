@@ -11,4 +11,6 @@ cd MalamGulita
 Как юзать:
 python2 MalamGulita.py — запуск
 
-Всем удачного пентеста ✌️
+Всем удачного пентеста!
+
+АВТОР - nishinosukasa(https://github.com/nishinosukasa)
